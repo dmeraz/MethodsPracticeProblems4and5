@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPracticeProblems4and5\MethodsPracticeProblems4and5\bin\Debug\MethodsPracticeProblems4and5.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MethodsPracticeProblems4and5\MethodsPracticeProblems4and5\bin\Debug\MethodsPracticeProblems4and5.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MethodsPracticeProblems4and5\MethodsPracticeProblems4and5\bin\Debug\MethodsPracticeProblems4and5.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MethodsPracticeProblems4and5\MethodsPracticeProblems4and5\obj\Debug\MethodsPracticeProblems4and5.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MethodsPracticeProblems4and5\MethodsPracticeProblems4and5\obj\Debug\MethodsPracticeProblems4and5.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MethodsPracticeProblems4and5\MethodsPracticeProblems4and5\obj\Debug\MethodsPracticeProblems4and5.pdb
